@@ -2,7 +2,7 @@
 Scrapy框架的使用和研习
 
 
-一. Scrapy使用说明 :
+## Scrapy使用说明 :
 
 1. pip install Scrapy .在此目录下已经安装了Scrapy和依赖, 并已经加入环境变量 . E:\wendi1\pyplace\scraping
 
